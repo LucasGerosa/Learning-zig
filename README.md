@@ -9,4 +9,4 @@ To run these examples on your own machine, you'll need to have Zig installed. Yo
 After installing Zig, you can clone this repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/<your-github-username>/zig-learning-project.git´´´
+git clone https://github.com/<your-github-username>/zig-learning-project.git
